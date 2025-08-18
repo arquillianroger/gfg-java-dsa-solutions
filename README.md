@@ -7,6 +7,7 @@
 | [Count Digits](https://www.geeksforgeeks.org/problems/count-digits5716/1) | [Java Solution](./Easy/CountDigits.java) |
 | [Sum Of Digits Is Palindrome Or Not](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | [Java Solution](./Easy/SumOfDigitsIsPalindromeOrNot.java) |
 | [Count Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1) | [Java Solution](./Easy/CountSquares.java) |
+| [Print Table](https://www.geeksforgeeks.org/problems/print-table0303/1) | [Java Solution](./Easy/PrintTable.java) |
 | []() | [Java Solution](./Easy/filename.java) |
 ##  Medium Problems
 | Problem | Solution |
