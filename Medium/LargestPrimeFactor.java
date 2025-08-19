@@ -34,5 +34,7 @@ class Solution {
             max = Math.max(factor, max);
         }
         return max;
+        //O(sqrt(n)) approach
+        
     }
 }
