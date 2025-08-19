@@ -9,6 +9,7 @@
 | [Count Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1) | [Java Solution](./Easy/CountSquares.java) |
 | [Print Table](https://www.geeksforgeeks.org/problems/print-table0303/1) | [Java Solution](./Easy/PrintTable.java) |
 | [All Divisors Of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Java Solution](./Easy/AllDivisorsOfaNumber.java) |
+| [Sum Of All Prime Numbers b/w 1 and N](https://www.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/1) | [Java Solution](./Easy/SumOfAllPrimeNumbers.java) |
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
