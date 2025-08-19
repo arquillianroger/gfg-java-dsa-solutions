@@ -8,7 +8,7 @@
 | [Sum Of Digits Is Palindrome Or Not](https://www.geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1) | [Java Solution](./Easy/SumOfDigitsIsPalindromeOrNot.java) |
 | [Count Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1) | [Java Solution](./Easy/CountSquares.java) |
 | [Print Table](https://www.geeksforgeeks.org/problems/print-table0303/1) | [Java Solution](./Easy/PrintTable.java) |
-| []() | [Java Solution](./Easy/filename.java) |
+| [All Divisors Of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Java Solution](./Easy/AllDivisorsOfaNumber.java) |
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
