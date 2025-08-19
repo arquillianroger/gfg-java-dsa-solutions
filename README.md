@@ -13,6 +13,8 @@
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
+| [Largest Prime Factor](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) | [Java Solution](./Medium/LargestPrimeFactor.java) |
+| []() | [Java Solution]() |
 
 ##  Hard Problems
 | Problem | Solution |
