@@ -1,6 +1,21 @@
 class Solution {
     static boolean isPrime(int n) {
         // code here
+        /*Brute-Force approach : O(n)
+        if(n > 1)
+        {
+            for(int i = 2; i < n; i++)
+            {
+                if(n % i == 0)
+                {
+                    return false;
+                }
+            }
+            return true;   
+        }
+        return false;
+        */
+        //Optimised approach : O(sqrt(n))
         if(n > 1)
         {
             for(int i = 2; i * i <= n; i++)
