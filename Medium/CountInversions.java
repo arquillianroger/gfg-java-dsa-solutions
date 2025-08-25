@@ -1,6 +1,6 @@
 class Solution {
     static int inversionCount(int arr[]) {
-        // Code Here
+        //Brute Force Approach -- O(n^2) [Got TLE]
         int count = 0;
         for(int i = 0; i <= arr.length - 2; i++)
         {
@@ -11,6 +11,7 @@ class Solution {
                 count ++;
             }
         }
+        //Optimised Approach
         return count;
     }
 }
