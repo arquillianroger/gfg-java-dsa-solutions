@@ -10,6 +10,7 @@
 | [Print Table](https://www.geeksforgeeks.org/problems/print-table0303/1) | [Java Solution](./Easy/PrintTable.java) |
 | [All Divisors Of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Java Solution](./Easy/AllDivisorsOfaNumber.java) |
 | [Sum Of All Prime Numbers b/w 1 and N](https://www.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/1) | [Java Solution](./Easy/SumOfAllPrimeNumbers.java) |
+| [Segregate Even Odd Numbers](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | [Java Solution](./Easy/segregateEvenOdd.java) |
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
