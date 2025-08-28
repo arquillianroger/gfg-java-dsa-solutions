@@ -11,6 +11,8 @@
 | [All Divisors Of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Java Solution](./Easy/AllDivisorsOfaNumber.java) |
 | [Sum Of All Prime Numbers b/w 1 and N](https://www.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/1) | [Java Solution](./Easy/SumOfAllPrimeNumbers.java) |
 | [Segregate Even Odd Numbers](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | [Java Solution](./Easy/segregateEvenOdd.java) |
+| [Missin In Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Java Solution](./Easy/MissingInArray.java) |
+| []() | [Java Solution](./Easy/) |
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
