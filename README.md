@@ -12,6 +12,7 @@
 | [Sum Of All Prime Numbers b/w 1 and N](https://www.geeksforgeeks.org/problems/sum-of-all-prime-numbers-between-1-and-n4404/1) | [Java Solution](./Easy/SumOfAllPrimeNumbers.java) |
 | [Segregate Even Odd Numbers](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | [Java Solution](./Easy/segregateEvenOdd.java) |
 | [Missing In Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Java Solution](./Easy/MissingInArray.java) |
+| [Equilibrium Point](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | [Java Solution](./Easy/EquilibriumPoint.java) |
 | []() | [Java Solution](./Easy/) |
 ##  Medium Problems
 | Problem | Solution |
