@@ -19,7 +19,8 @@
 |---------|----------|
 | [Largest Prime Factor](https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1) | [Java Solution](./Medium/LargestPrimeFactor.java) |
 | [Count Inversions](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Java Solution](./Medium/CountInversions.java) |
-| []() | [Java Solution]() |
+| [Wave Array](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?track=amazon-arrays&batchId=192) | [Java Solution](./Medium/WaveArray.java) |
+| []() | [Java Solution](./Medium/) |
 ##  Hard Problems
 | Problem | Solution |
 |---------|----------|
