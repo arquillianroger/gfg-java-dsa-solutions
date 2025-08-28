@@ -19,6 +19,22 @@ class Solution {
         }
         return -1;
         */
-      //Optimized Approach : O(n)
+      /*Optimized Approach : O(n)
+        Instead of checking sums on both sides for each index
+        First, calculate the total sum of all elements.
+        Then, as you walk through the array, keep track of the sum on the left.
+        rightSum = totalSum - leftSum - arr[i];
+        */
+        int totalSum = 0;
+        for(int i = 0; i < arr.length; i++){
+            totalSum += arr[i];
+        }
+        int leftSum = 0;
+        for(int i = 0; i < arr.length; i++){
+            if(leftSum == totalSum - leftSum - arr[i])
+                return i;
+            leftSum += arr[i];
+        }
+        return -1;
     }
 }
