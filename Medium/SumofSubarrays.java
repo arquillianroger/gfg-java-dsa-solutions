@@ -25,8 +25,8 @@ class Solution {
         So total = 1*3 + 2*4 + 3*3 = 3 + 8 + 9 = 20.
 
         This trick comes from thinking: For element at index i (0-based),
-        -> Number of choices for left boundary = i + 1.
-        -> Number of choices for right boundary = n - i.
+        -> Number of choices for left boundary = i + 1, (because l can be anywhere from 0 to i).
+        -> Number of choices for right boundary = n - i, (because r can be anywhere from i to n - 1).
         So contribution = arr[i] * (i + 1) * (n - i).
 
         This gives us O(n) directly.
