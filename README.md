@@ -22,6 +22,7 @@
 | [Wave Array](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?track=amazon-arrays&batchId=192) | [Java Solution](./Medium/WaveArray.java) |
 | [Sum of Subarrays](https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1) | [Java Solution](./Medium/SumofSubarrays.java) |
 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | [Java Solution](./Medium/RearrangeArrayAlternately.java) |
+| [Maximum GCD Pair](https://www.geeksforgeeks.org/problems/maximum-gcd-pair3534/1) | [Java Solution](./Medium/MaximumGCDPair.java) |
 | []() | [Java Solution](./Medium/) |
 ##  Hard Problems
 | Problem | Solution |
