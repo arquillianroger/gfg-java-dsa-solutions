@@ -1,9 +1,6 @@
 # geeksforgeeks-java-dsa-solutions
 This repository contains my solutions to Data Structures and Algorithms (DSA) problems from GeeksforGeeks, implemented in Java. The goal of this repo is to practice problem-solving, strengthen DSA concepts, and build a handy reference for interview preparation.
 
-<!---Geeks For Geeks Topics Start-->
-# Geeks For Geeks Topics
-
 # Key Highlights:
 Covers a wide range of DSA topics from GeeksforGeeks
 Solutions written in clean, beginner-friendly Java code
