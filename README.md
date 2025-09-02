@@ -1,3 +1,4 @@
+
 ##  Easy Problems
 | Problem | Solution |
 |---------|----------|
@@ -14,6 +15,7 @@
 | [Missing In Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Java Solution](./Easy/MissingInArray.java) |
 | [Equilibrium Point](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | [Java Solution](./Easy/EquilibriumPoint.java) |
 | []() | [Java Solution](./Easy/) |
+
 ##  Medium Problems
 | Problem | Solution |
 |---------|----------|
