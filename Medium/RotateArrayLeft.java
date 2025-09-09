@@ -41,5 +41,29 @@ class Solution {
             arr[i] = temp[i];
     }
   */
-  // 
-}
+   // Reversal Algortihm --O(n) time and O(1) space : The idea is based on the observation that if we left rotate the array by d positions, 
+    // the last (n - d) elements will be at the front and the first d elements will be at the end. 
+    static void rotateArr(int arr[], int d) {
+        int n = arr.length;
+        
+        // When d > n
+        d %= n;
+        
+        // Step 1: Reverse the subarray containing the first d elements of the array.
+        reverse(arr, 0, d - 1);
+
+        // Step 2: Reverse the subarray containing the last (n - d) elements of the array.
+        reverse(arr, d, n - 1);
+        
+        // Step 3: Finally, reverse all the elements of the array.
+        reverse(arr, 0, n - 1);
+    }
+    
+    static void reverse(int[] arr, int i, int j){
+        // Reversal using two-pointer approach
+        while(i < j){
+            int num = arr[i];
+            arr[i++] = arr[j];
+            arr[j--] = num;
+        }
+    }
