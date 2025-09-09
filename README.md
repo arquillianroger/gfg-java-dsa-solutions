@@ -39,8 +39,6 @@ Developers looking for ready-to-use GFG problem solutions
 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) | [Java Solution](./Medium/RearrangeArrayAlternately.java) |
 | [Maximum GCD Pair](https://www.geeksforgeeks.org/problems/maximum-gcd-pair3534/1) | [Java Solution](./Medium/MaximumGCDPair.java) |
 | [Rotate Array Left](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | [Java Solution](./Medium/RotateArrayLeft.java) |
-| [K-diff Pairs](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) | [Java Solution](./Medium/KDiffPairs.java) |
-| [Rotate Array Right](https://leetcode.com/problems/rotate-array/description/) | [Java Solution](./Medium/RotateArrayRight.java) |
 | []() | [Java Solution](./Medium/) |
 ##  Hard Problems
 | Problem | Solution |
