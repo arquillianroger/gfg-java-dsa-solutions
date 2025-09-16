@@ -27,6 +27,7 @@ Developers looking for ready-to-use GFG problem solutions
 | [Segregate Even Odd Numbers](https://www.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1) | [Java Solution](./Easy/segregateEvenOdd.java) |
 | [Missing In Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Java Solution](./Easy/MissingInArray.java) |
 | [Equilibrium Point](https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | [Java Solution](./Easy/EquilibriumPoint.java) |
+| [Array Duplicates](https://www.geeksforgeeks.org/problems/find-duplicates-in-an-array/1) | [Java Solution](./Easy/ArrayDuplicates.java) |
 | []() | [Java Solution](./Easy/) |
 
 ##  Medium Problems
