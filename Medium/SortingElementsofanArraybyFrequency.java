@@ -73,6 +73,7 @@ class GFG {
 	    list.add(num);
     
 	    // Sort by frequency (desc), then value (asc)
+	  	// Custom comparator ((a, b) -> {...}) tells Java how to sort
 	    Collections.sort(list, (a, b) -> {
 	        int freqA = freq.get(a), freqB = freq.get(b);
 	        if(freqA != freqB) return freqB - freqA; // higher frequency first
