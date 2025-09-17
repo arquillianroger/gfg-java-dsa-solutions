@@ -41,6 +41,7 @@ Developers looking for ready-to-use GFG problem solutions
 | [Maximum GCD Pair](https://www.geeksforgeeks.org/problems/maximum-gcd-pair3534/1) | [Java Solution](./Medium/MaximumGCDPair.java) |
 | [Rotate Array Left](https://www.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1) | [Java Solution](./Medium/RotateArrayLeft.java) |
 | [Sorting Elements of an Array by Frequency](https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0) | [Java Solution](./Medium/SortingElementsofanArraybyFrequency.java) |
+| [Sum of Manhattan distances between all pairs of points](https://www.geeksforgeeks.org/dsa/sum-manhattan-distances-pairs-points/) | [Java Solution](./Medium/SumOfManhattanDistances.java) |
 | []() | [Java Solution](./Medium/) |
 ##  Hard Problems
 | Problem | Solution |
