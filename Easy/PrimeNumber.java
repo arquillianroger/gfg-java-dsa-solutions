@@ -1,6 +1,6 @@
 class Solution {
     static boolean isPrime(int n) {
-        /*Brute-Force approach : O(n)
+        /* Brute-Force approach : O(n)
         if(n > 1)
         {
             for(int i = 2; i <= n - 1; i++)
@@ -11,7 +11,8 @@ class Solution {
         }
         return false;
         */
-        //Optimised approach : O(sqrt(n))
+        // Optimized approach : O(sqrt(n))
+        // if a number has a divisor greater than √n, it must already have a smaller one.
         if(n > 1)
         {
             for(int i = 2; i * i <= n; i++)
